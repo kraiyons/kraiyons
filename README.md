@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Krai Alapide, a Software Engineer that is currently based in Singapore
-- 🔭 I’m currently working for Pand.ai and it's Chatbot management application
-- 🌱 I’m currently learning TypeScript, Canvas and React Hooks!
+- 🌱 I’m currently learning AWS, VueJS and Python!
 - 📫 How to reach me: krai.alapide@gmail.com
 - 👯 I’m looking to collaborate on my first OSS, do reach out to me please!
+- 💬 You can talk to me about JS and React (Hooks, Redux, Saga, Styled-Components, etc)
 - 😄 Pronouns: He/Him 
 <!--
 **kraiyons/kraiyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
