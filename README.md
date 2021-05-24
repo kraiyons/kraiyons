@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Krai Alapide, a Software Engineer that is currently based in Singapore
 - 🌱 I’m currently learning AWS, VueJS and Python!
 - 📫 How to reach me: krai.alapide@gmail.com
-- 👯 I’m looking to collaborate on my first OSS, do reach out to me please!
+- 👯 I’m looking to collaborate on an OSS
 - 💬 You can talk to me about JS and React (Hooks, Redux, Saga, Styled-Components, etc)
 - 😄 Pronouns: He/Him 
 <!--
