@@ -1,4 +1,4 @@
-### Hi there 👋 I am Krai Alapide, a Software Engineer that is currently based in Singapore
+### Hi there 👋 I am Krai Alapide, a Software Engineer currently based in Singapore
 - 🌱 I’m currently studying AWS, Docker, VueJS and Python!
 - 📫 How to reach me: krai.alapide@gmail.com
 - 👯 I’m looking to collaborate on an OSS
