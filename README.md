@@ -4,3 +4,5 @@
 - 👯 I’m looking to collaborate on an OSS
 - 💬 You can talk to me about JS, React, DotA 2, and Basketball!
 - 😄 Pronouns: He/Him 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
