@@ -5,4 +5,4 @@
 - 💬 You can talk to me about JS, React, DotA 2, and Basketball!
 - 😄 Pronouns: He/Him 
 
-[![Kraiyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraiyons)](https://github.com/anuraghazra/github-readme-stats)
+[![Kraiyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraiyons&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
