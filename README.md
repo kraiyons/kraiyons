@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Krai, a Software Engineer currently based in Singapore
 - 🌱 I’m currently studying AWS, Docker, VueJS and Python!
-- 📫 How to reach me: krai.alapide@gmail.com
 - 💬 You can talk to me about JS, React, DotA 2, and Basketball!
 - 😄 Pronouns: He/Him 
 
